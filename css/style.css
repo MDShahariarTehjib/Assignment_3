@@ -1,0 +1,139 @@
+body
+{
+background-color: lightblue;
+}
+#id6
+{
+    font-size:200%;
+    margin-left: 300px;
+    margin-top: 150px;
+}
+ul
+{
+	 font-size:200%;
+    margin-top: 50px;
+
+}
+button
+{
+	font-size:150%;
+	margin-left: 20px;
+	border-color:blue;
+}
+#id1
+{
+	font-size:150%;
+	margin-left: 300px;
+	margin-top:200px;
+	border-color:blue;
+
+}
+#id2
+{
+	background-color: yellowgreen;
+}
+#id3
+{
+	text-align: center;
+    background-color: lightgreen;
+    color :black;
+    font-size:100px;
+}
+#id4
+{ 
+	background-color: Red;
+     font-size:400%; 
+     display: inline-block;
+ }
+#address
+{
+	background-color: green;
+     font-size:300%; 
+     display: block;
+ }
+ #article
+{
+	background-color: yellow;
+     font-size:300%; 
+     display: block;
+}
+#aside
+{
+  font-size:300%; 
+  background-color: green;
+  display: block;	
+}
+blockquote
+{
+  font-size:300%; 
+  background-color: red;
+  display: block;
+}
+#dd
+{ 
+  text-align: center;
+  font-size:300%; 
+  background-color: green;
+  display: block;	
+}
+#div
+{ 
+  text-align: center;
+  font-size:300%; 
+  background-color: red;
+  display: block;	
+}
+#fieldset
+{
+  font-size:100%; 
+  background-color: skyblue;
+  display: block;
+}
+ table, th, td
+{
+  border: 1px solid black;
+  font-size:150%; 
+  background-color: red;
+}
+
+#ul
+{
+	background-color: orange;
+}
+
+#inline
+{
+  background-color: green;
+  font-size:400%; 
+  display: inline-block;
+}
+#link
+{   
+	text-align: center;
+	background-color: red;
+	display:inline;
+}
+#abbr
+{
+	background-color: skyblue;
+	font-size:400%; 
+}
+#bold
+{
+    background-color: red;
+	font-size:200%; 	
+}
+#bdo
+{
+	background-color: skyblue;
+	font-size:200%; 
+}
+#br
+{
+	background-color: red;
+	font-size:200%; 
+}
+#span
+{
+	font-size:200%; 
+}
